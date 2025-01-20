@@ -1,12 +1,37 @@
 
-- 👋 Hi, I’m @PoliXDev  
-- 👀 I’m interested in web development, cybersecurity, and creating innovative tools for network analysis.  
-- 🌱 I’m a Programmer and currently learning full stack development at the academy ConquerBlocks, specializing in technologies like Python, React, and Angular.  
-- 💞️ I’m looking to collaborate on open-source projects and web applications that solve real-world problems.  
-- 📫 How to reach me: [danielruiz368@gmail.com]  
-- 😄 Pronouns: noahknox
-- ⚡ Fun fact: I’m also an automotive mechanic who loves working on cars while reminiscing about the past. 
-<!---
-PoliXDev/PoliXDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Professional Introduction
+
+I am a passionate full stack developer with a strong focus on web development and technological innovation. My work centers on creating efficient digital solutions that address real-world challenges.
+
+🔧 Areas of Expertise
+
+Web Development: Python, React, Angular, HTML, , Javascript.
+
+Cybersecurity: Network auditing and secure application development
+
+Network Analysis: Advanced analysis techniques to optimize and secure systems
+
+Innovative Tools: Development of creative and impactful technological solutions
+
+
+🌟 Professional Goals
+
+Contribute to high-impact open-source projects
+
+Develop web applications that deliver tangible value to users
+
+Continuously learn and adapt to emerging technologies
+
+
+📍 Contact Details
+
+Email: danielruiz368@gmail.com
+
+Academy: ConquerBlocks
+
+Training: Full Stack Development
+
+
+🤝 Collaboration
+
+I am eager to collaborate on projects that integrate web development, cybersecurity, and innovative technologies to create groundbreaking solutions.
