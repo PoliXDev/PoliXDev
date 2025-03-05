@@ -5,11 +5,9 @@ I am a passionate full stack developer with a strong focus on web development an
 
 🔧 Areas of Expertise
 
-Web Development: Python, React, Angular, HTML, , Javascript.
+App Web Development: Python, React, Angular, HTML, , CSS,  Javascript.
 
 Cybersecurity: Network auditing and secure application development
-
-Network Analysis: Advanced analysis techniques to optimize and secure systems
 
 Innovative Tools: Development of creative and impactful technological solutions
 
