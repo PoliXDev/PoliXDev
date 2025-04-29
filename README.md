@@ -26,13 +26,7 @@ const polixDev = {
 
 ---
 
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,python,mongodb,linux,bash,tailwind,docker" />
-</p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,python,mongodb,linux,bash,tailwind,docker" /> </p>
 ---
 
 
@@ -54,6 +48,3 @@ const polixDev = {
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=440&height=45&lines=¡Gracias+por+visitar+mi+perfil!;¡Construyamos+el+futuro+juntos!+💡" />
-</p>
