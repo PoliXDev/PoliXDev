@@ -14,7 +14,7 @@
 
 ## About Me
 
-
+```
 const polixDev = {
   name: "Daniel Ruiz Poli",
   role: "Full Stack Developer",
@@ -22,7 +22,7 @@ const polixDev = {
   learning: ["Next.js", "Docker"],
   passions: ["AI", "Web3", "Cybersecurity", "SaaS", WebBuild],
 }
-
+```
 
 ## 🛠️ Tech Stack
 <p align="center">
