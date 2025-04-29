@@ -23,7 +23,7 @@ const polixDev = {
   passions: ["AI", "Web3", "Cybersecurity", "SaaS", WebBuild],
 }
 
-
+```ts
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,python,mongodb,linux,bash,tailwind,docker" />
