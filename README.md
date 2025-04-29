@@ -1,12 +1,12 @@
-<!-- Banner principal -->
+<!-- Main Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=PolixDev%20👨‍💻&fontColor=00FFFF&fontSize=50&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=PolixDev%20💻&fontColor=00FFFF&fontSize=50&animation=fadeIn" alt="banner" />
 </p>
 
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/PolixDev"><img src="https://img.shields.io/github/followers/PolixDev?label=Seguidores&style=social"></a>
+  <a href="https://github.com/PolixDev"><img src="https://img.shields.io/github/followers/PolixDev?label=Followers&style=social"></a>
   <a href="mailto:polixdev@gmail.com"><img src="https://img.shields.io/badge/Email-danielruiz368@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
@@ -22,29 +22,10 @@ const polixDev = {
   learning: ["Next.js", "Docker"],
   passions: ["AI", "Web3", "Cybersecurity", "SaaS"],
 }
-
-
----
-
+🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,python,mongodb,linux,bash,tailwind,docker" /> </p>
----
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PolixDev&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolixDev&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/polixdev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:danielruiz@368.gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/PolixDev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
+📊 Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PolixDev&show_icons=true&theme=tokyonight&count_private=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolixDev&layout=compact&theme=tokyonight" height="150"/> </p>
+📫 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/polixdev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:polixdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/PolixDev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=440&height=45&lines=Thanks+for+visiting+my+profile!;Let's+build+the+future+together!+💡" /> </p> ```
