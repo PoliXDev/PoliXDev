@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=PolixDev%20👨‍💻&fontColor=00FFFF&fontSize=50&animation=fadeIn" alt="banner" />
 </p>
 
-<h3 align="center">Full Stack Developer · Ciberseguridad · Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/PolixDev"><img src="https://img.shields.io/github/followers/PolixDev?label=Seguidores&style=social"></a>
