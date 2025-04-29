@@ -20,5 +20,4 @@ const polixDev = {
   learning: ["Next.js", "Docker"],
   passions: ["AI", "Web3", "Cybersecurity", "SaaS"],
 
-```ts
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PolixDev&show_icons=true&theme=tokyonight&count_private=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolixDev&layout=compact&theme=tokyonight" height="150"/> </p<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PolixDev&show_icons=true&theme=tokyonight&count_private=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolixDev&layout=compact&theme=tokyonight" height="150"/> </p
+
