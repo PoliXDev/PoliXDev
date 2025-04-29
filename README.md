@@ -12,9 +12,7 @@
 
 ---
 
-## About Me
 
-```ts
 const polixDev = {
   name: "Daniel Ruiz Poli",
   role: "Full Stack Developer",
