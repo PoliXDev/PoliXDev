@@ -39,12 +39,12 @@ const polixDev = {
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/polixdev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:polixdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:danielruiz368@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/PolixDev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=440&height=45&lines=Thanks+for+visiting+my+profile!;Let's+build+the+future+together!+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=440&height=45&lines=Thanks+for+visiting+my+profile!;Time+to+root+the+system+💣" />
 </p>
