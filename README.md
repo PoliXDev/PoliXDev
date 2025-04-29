@@ -12,18 +12,17 @@
 
 ---
 
-## Sobre mí
+## About Me
 
 ```ts
 const polixDev = {
-  nombre: "Daniel Ruiz Poli",
-  rol: "Desarrollador Full Stack",
-  tecnologías: ["JavaScript", "React", "Node.js", "Python", "MongoDB", "TailwindCSS"],
-  aprendiendo: ["Next.js", "NestJS", "Prisma", "Docker"],
-  pasiones: ["IA", "Web3", "Ciberseguridad", "SaaS"],
-
+  name: "Daniel Ruiz Poli",
+  role: "Full Stack Developer",
+  technologies: ["JavaScript", "React", "Node.js", "Python", "MongoDB", "TailwindCSS"],
+  learning: ["Next.js", "Docker"],
+  passions: ["AI", "Web3", "Cybersecurity", "SaaS"],
 }
-```
+
 
 ---
 
@@ -36,7 +35,7 @@ const polixDev = {
 
 ---
 
-## 📊 Estadísticas
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PolixDev&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
@@ -45,11 +44,11 @@ const polixDev = {
 
 ---
 
-## 📫 Conecta conmigo
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/polixdev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:polixdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:danielruiz@368.gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/PolixDev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
