@@ -49,5 +49,5 @@ const polixDev = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=440&height=45&lines=Thanks+for+visiting+my+profile!;Time+to+root+the+system+💣" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=440&height=45&lines=Time+to+root+the+system+💣" />
 </p>
