@@ -18,9 +18,9 @@
 const polixDev = {
   name: "Daniel Ruiz Poli",
   role: "Full Stack Developer",
-  technologies: ["JavaScript", "React", "Node.js", "Python", "MongoDB", "TailwindCSS"],
+  technologies: ["JavaScript", "React", "Node.js", "Python", "TailwindCSS"],
   learning: ["Next.js", "Docker"],
-  passions: ["AI", "Web3", "Cybersecurity", "SaaS", WebBuild],
+  passions: ["React", "Node.js", "typeScript", "SaaS", WebBuild],
 }
 ```
 
