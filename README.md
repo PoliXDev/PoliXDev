@@ -41,7 +41,7 @@ const polixDev = {
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/polixdev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daniel-alejandro-ruiz-poli-8bb1141a7"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:danielruiz368@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/PolixDev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
